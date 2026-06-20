@@ -1,0 +1,8 @@
+{
+  "name": "Remix: الكعبي money",
+  "description": "نظام لإدارة وجدولة مستحقات الديون والأقساط الشهرية بطريقة احترافية مع دعم إصدار السندات الرقمية الموقعة كصورة للتنزيل المباشر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
